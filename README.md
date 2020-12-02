@@ -1,4 +1,4 @@
-# WTZsas
+# WTZspam
 Sistema para análise de score.
 QUESTÃO 1
 Prezado(a) aluno(a), 
